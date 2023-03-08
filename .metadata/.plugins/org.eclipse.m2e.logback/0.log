@@ -1,0 +1,6 @@
+2023-03-08 20:11:58,216 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-08 20:12:22,929 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.helloword:Hello:0.0.1-SNAPSHOT @ C:\Users\Felipe\OneDrive - 72lgwk\Área de Trabalho\Hello\pom.xml.
+2023-03-08 20:12:26,228 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Hello/src/main/java
+2023-03-08 20:12:26,230 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Hello/src/main/resources
+2023-03-08 20:12:26,276 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Hello/src/main/resources
+2023-03-08 20:12:26,300 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Hello/src/test/java

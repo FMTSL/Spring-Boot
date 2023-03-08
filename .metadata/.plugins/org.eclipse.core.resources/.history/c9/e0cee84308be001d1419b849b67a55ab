@@ -1,0 +1,8 @@
+package br.com.helloword.Hello.controller;
+
+import org.springframework.web.annotation.RestController;
+
+@RestController
+public class HelloController {
+	
+}
