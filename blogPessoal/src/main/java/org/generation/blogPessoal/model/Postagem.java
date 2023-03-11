@@ -13,8 +13,6 @@ import jakarta.persistence.Table;
 import jakarta.persistence.Temporal;
 import jakarta.persistence.TemporalType;
 
-
-
 @Entity
 @Table(name = "postagem")
 public class Postagem {
